@@ -1,1 +1,1 @@
-﻿# Plant-Disease-Detection-M
+﻿# Plant-Disease-Detection-ML
